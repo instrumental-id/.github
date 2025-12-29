@@ -12,7 +12,7 @@ Our senior architects each have 10+ years experience in identity governance. We'
 
 If you're looking for our open-source software, and it's not mirrored here, you can [head over to our Gitlab](https://git.identityworksllc.com/). 
 
-For our OSS Sailpoint tools, release packages are also available on our GitLab, linked below:
+For our OSS Sailpoint tools, pre-built release packages are also available on our GitLab, linked below:
 
 * [IIQ Common Public](https://git.identityworksllc.com/pub/iiqcommon/-/packages)
 * [Rule Runner plugin](https://git.identityworksllc.com/pub/sailpoint-plugins/rule-runner-public/-/packages/155)
