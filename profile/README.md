@@ -10,10 +10,4 @@ Our senior architects each have 10+ years experience in identity governance. We'
 
 ## Open-source tools
 
-If you're looking for our open-source software, and it's not mirrored here, you can [head over to our Gitlab](https://git.instrumentalidentity.com/). 
-
-For our OSS Sailpoint tools, pre-built release packages are also available on our GitLab, linked below:
-
-* [IIQ Common Public](https://git.instrumentalidentity.com/pub/iiqcommon/-/packages)
-* [Rule Runner plugin](https://git.instrumentalidentity.com/pub/sailpoint-plugins/rule-runner-public/-/packages/155)
-* [Query Plugin](https://git.instrumentalidentity.com/pub/sailpoint-plugins/query-plugin) - click the Pipeline version on the right
+GitHub is now the official home for Instrumental ID's open-source software, including our SailPoint IIQ plugins, iiq-common-public, and our ISC work.
