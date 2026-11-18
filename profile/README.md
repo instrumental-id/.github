@@ -1,6 +1,6 @@
 # Instrumental Identity
 
-Instrumental Identity (IID) provides assessments, software, implementation services, and consulting for IAM programs and platforms, including SailPoint (IIQ/ISC), Evolveum midPoint, Microsoft Entra ID, and Internet2 Grouper. Identity is all we do!
+Instrumental Identity (IID) provides assessments, software, implementation services, and consulting for IAM programs and platforms, including SailPoint (IIQ/ISC), Evolveum midPoint, Microsoft Entra ID, and Internet2 Grouper. Since 2011, Identity is all we do.
 
 Our senior architects each have 10+ years experience in the IAM field. We're an [Internet2 InCommon Catalyst partner](https://incommon.org/community/catalyst/).
 
