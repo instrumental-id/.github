@@ -1,8 +1,4 @@
-# Instrumental Identity Github landing page
-
-Hello! 
-
-## About us
+# Instrumental Identity
 
 Instrumental Identity (IID) provides assessments, software, implementation services, and consulting for IAM programs and platforms, including SailPoint (IIQ/ISC), Evolveum midPoint, Microsoft Entra ID, and Internet2 Grouper. Identity is all we do!
 
