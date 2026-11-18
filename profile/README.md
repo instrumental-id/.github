@@ -4,9 +4,9 @@ Hello!
 
 ## About us
 
-Instrumental Identity provides software, implementation services, and consulting for IAM/IGA platforms including SailPoint (IIQ/ISC), Evolveum midPoint, Microsoft Entra ID, and Internet2 Grouper.
+Instrumental Identity provides assessments, software, implementation services, and consulting for IAM programs and platforms, including SailPoint (IIQ/ISC), Evolveum midPoint, Microsoft Entra ID, and Internet2 Grouper. Identity is all we do!
 
-Our senior architects each have 10+ years experience in identity governance. We're an [Internet2 InCommon Catalyst partner](https://incommon.org/community/catalyst/).
+Our senior architects each have 10+ years experience in the IAM field. We're an [Internet2 InCommon Catalyst partner](https://incommon.org/community/catalyst/).
 
 ## Open-source tools
 
